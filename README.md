@@ -30,7 +30,7 @@ This project leverages Microsoft Excel to analyze sales data and uncover key bus
 ## Key Outputs
 
 - **Key Insights**
-  ![Key Insights](Images/Key-Insights.png)
+  ![Key Insights](Images/Key%20Insights.png)
 
   - *Salad* brings the most revenue ($17,315), while *Coffee* sells most units (3,529).
   - Total Revenue: $81,990 across 8,979 transactions.
@@ -40,12 +40,12 @@ This project leverages Microsoft Excel to analyze sales data and uncover key bus
   - Average Spend: ~$8.98 per customer.
 
 - **Monthly Revenue Trend**
-  ![Monthly Revenue Trend](Images/Montly-Revenue.png)
+  ![Monthly Revenue Trend](Images/Montly%20Revenue.png)
   
   - Visualizes revenue patterns for each month in 2023.
 
 - **Product Popularity**
-  ![Product Popularity](Images/Popular-Items.png)
+  ![Product Popularity](Images/Popular%20Items.png)
   
   - Compares sum of revenue and quantity sold for products like Tea, Sandwich, Salad, Coffee.
 
